@@ -1,0 +1,246 @@
+html {
+    background-color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0% 20% 15%;
+    color: black;
+    font-size: 17px;
+    line-height: 25px;
+  }    
+    
+    ul {
+        text-align: center;
+        list-style-type: none;
+        margin: 0px 50px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        width: 1000px;
+    }
+    
+    li {
+        float: left;
+        display: inline;
+    }
+    
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    
+    /* Change the link color to #111 (black) on hover */
+    li a:hover {
+        background-color: #111;
+    }
+
+    /*.headlineh1 {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        letter-spacing: -1.5px;
+        margin: 30% 0% 100% 0%;
+        color: black;
+        font-size: 100px;
+        line-height: 25px;
+    } */
+
+    .ulheader {
+        position: fixed;
+        list-style-type: none;
+        margin: 0px 285px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #333;
+        width: 550px;
+    }
+
+    .text {
+        text-align: left;
+        font-size: 35px;
+        color: black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 85%;   
+        line-height: 50px;
+    }
+
+.itemheight {
+    text-align: center;
+    height: 100vh;
+
+}
+
+
+
+    h2 {
+        font-size: 100px;
+        margin-top: 15px;
+    }
+
+    #divclass {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    #divclasstop {
+        margin-top: 0px;
+        text-align: center;
+    }
+
+    #divclass2 {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    #divclass3 {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    #divclass4 {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    .divclass5 {
+        height: 100vh;
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    #divclass6 {
+        margin-top: 200px;
+        text-align: center;
+    }
+
+    .arrow1 {
+        margin-top: 120px;
+        height:  50px;
+    }
+
+    .arrow2 {
+        margin-top: 50px;
+        height:  50px;
+    }
+
+    .arrow3 {
+        margin-left: 450px;
+        margin-top: 50px;
+        height:  50px;
+    }
+
+    .arrow4 {
+        margin-left: 450px;
+        margin-top: 50px;
+        height:  50px;
+    }
+
+    .arrow5 {
+        margin-left: 450px; 
+        margin-top: -50px;
+        height:  50px;
+    }
+
+    .arrow6 {
+        margin-left: 450;
+        margin-top: 0px;
+        height:  50px;
+    }
+
+.centerimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.centerimage2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.tablestyle {
+    text-align: left;
+
+}
+
+img { 
+    display: inline;
+    vertical-align: middle; 
+}
+
+#listen {
+    text-align: center;
+        font-size: 35px;
+        color: black;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        line-height: 50px;
+    
+}
+#linkeListe {  
+    list-style-type: none;  
+    width:450px;  
+    float:left;  
+    background-color: white;
+}
+
+#rechteListe {  
+    list-style-type: none;  
+    width:450px;
+    float:right; 
+    background-color:white; 
+}
+
+#bereich0 {
+    background-color: green;
+    position: absolute;
+    width: 500px;
+    height: 5px;
+}
+
+#bereich {
+    background-color: green;
+    position: absolute;
+    width: 500px;
+    height: 10px;
+}
+
+#bereich2 {
+    background-color: green;
+    position: absolute;
+    width: 500px;
+    height: 20px;
+}
+
+#bereich3 {
+    background-color: green;
+    position: absolute;
+    width: 500px;
+    height: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+    /* Backup:  margin: 30% 0% 100% 0%; */
